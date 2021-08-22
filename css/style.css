@@ -68,6 +68,6 @@ main {
 
 audio {
   position: fixed;
-  bottom: 4px;
+  top: 4px;
   left: 4px;
 }
